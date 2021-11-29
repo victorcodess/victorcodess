@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @victorcodess
+- 👋 Hi, I’m Victor Williams
 - 👀 I’m interested in Frontend Development and User Interface Design
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Amazing Projects
 - 📫 You can reach me on Twitter
 
