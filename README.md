@@ -1,5 +1,5 @@
 <div align="right">
-<img src="https://media.giphy.com/media/l0Iyoy5VglR6QKJiw/giphy.gif" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/l0Iyoy5VglR6QKJiw/giphy.gif" width="100%" height="100%" style="position:absolute" />
 </div>  
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/l0Iyoy5VglR6QKJiw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/funimation-attack-on-titan-shingeki-no-kyojin-l0Iyoy5VglR6QKJiw">via GIPHY</a></p>
   
