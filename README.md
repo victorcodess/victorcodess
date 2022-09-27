@@ -1,10 +1,9 @@
 <div align="right">
 <img src="https://media.giphy.com/media/l0Iyoy5VglR6QKJiw/giphy.gif" width="100%" height="100%" style="position:absolute" />
 </div>  
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/l0Iyoy5VglR6QKJiw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/funimation-attack-on-titan-shingeki-no-kyojin-l0Iyoy5VglR6QKJiw">via GIPHY</a></p>
   
 
-### <div align="center">I'm a rising sophomore studying Electrical Engineering who has always loved the scalability of tech solutions to challenging problems. </div>  
+### <div align="center">Hiiii there!! I'm a rising sophomore studying Electrical Engineering who has always loved the scalability of tech solutions to challenging problems.</div>  
   
 
 - 🔭 I’m currently working on [LeetCode Challenges](https://github.com/victorcodess/leetcode-solutions)  
@@ -44,15 +43,11 @@
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+   
+### Spotify Listening  
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=mnz5vy2pe2msgqqgfyy8oevbc&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true" align="center" style="width: 100%" />  
 
-<br/>  
-
-
-## Spotify Listening  
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=mnz5vy2pe2msgqqgfyy8oevbc&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)  
-
-<br/>  
+<br/>    
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=victorcodess&&style=flat-square" align="center" />
