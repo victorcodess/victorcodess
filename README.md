@@ -47,6 +47,9 @@
 ## Spotify Listening  
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=mnz5vy2pe2msgqqgfyy8oevbc&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true" align="center" style="width: 100%" />  
 
+## Stats 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=victorcodess&theme=dark&hide_border=true&border_radius=15&background=000807)](https://git.io/streak-stats)
+
 <br/>    
 
 
