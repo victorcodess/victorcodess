@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [LeetCode Challenges](https://github.com/victorcodess/leetcode-solutions)  
   
-- 🌱 I’m currently learning ReactJS, Data structures & Algorithms  
+- 🌱 I’m currently learning ReactJS, TailwindCSS, Nextjs, Data structures & Algorithms  
   
 - ❓ Ask me about anything related to UX Engineering and related technologies  
 
