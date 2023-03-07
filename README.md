@@ -6,7 +6,7 @@
 ### <div align="center">Hiiii there!! I'm a rising sophomore studying Electrical Engineering who has always loved the scalability of tech solutions to challenging problems.</div>  
   
 
-- 🔭 I’m currently working on [LeetCode Challenges](https://github.com/victorcodess/leetcode-solutions)  
+- 🔭 I’m currently working on my Porfolio  
   
 - 🌱 I’m currently learning ReactJS, TailwindCSS, Nextjs, Data structures & Algorithms  
   
