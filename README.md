@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on my [Portfolio](https://github.com/victorcodess/folio-v1)  
   
-- 🌱 I’m currently learning ReactJS, TailwindCSS, Nextjs, Data structures & Algorithms, and Next.js 
+- 🌱 I’m currently learning ReactJS, TailwindCSS, Nextjs, Data structures & Algorithms, and Next.js. 
   
 - ❓ Ask me about anything related to UX Engineering and related technologies  
 
