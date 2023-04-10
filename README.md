@@ -10,7 +10,7 @@
   
 - 🌱 I’m currently learning ReactJS, TailwindCSS, Nextjs, Data structures & Algorithms, and Next.js. 
   
-- ❓ Ask me about anything related to UX Engineering and related technologies  
+- ❓ Ask me about anything related to UX Engineering and related technologies.  
 
 - ⚡ Fun fact: I listen to way too much UK Drill 👾  
   
