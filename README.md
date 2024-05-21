@@ -3,12 +3,14 @@
 </div>  
   
 
-### <div align="center">Hiiii there!!</div>  
+## <div align="center">Hi there! 👋🏾</div> 
+
+### <div align="center">I'm Victor, a skilled frontend developer with 3+ years of experience. I'm highly proficient in the core technologies that power modern web development, including React, TypeScript/JavaScript, Next.js, and Tailwind CSS.</div>
   
 
 - 🔭 I’m currently working on [Synthetix](https://github.com/victorcodess/synthetix)  
   
-- 🌱 I’m currently learning Framer Motion, GSAP, and Three.js. 
+- 🌱 I’m presently learning Framer Motion, GSAP, and Three.js. 
   
 - ❓ Ask me about anything related to UI Design and Engineering.  
 
