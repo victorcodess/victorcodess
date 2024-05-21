@@ -3,14 +3,14 @@
 </div>  
   
 
-### <div align="center">Hiiii there!! I'm a rising junior studying Electrical Engineering who has always loved the scalability of tech solutions to challenging problems.</div>  
+### <div align="center">Hiiii there!!</div>  
   
 
-- 🔭 I’m currently working on [MLSC.ng](https://github.com/mlsanigeria/mlsc.ng-frontend)  
+- 🔭 I’m currently working on [Synthetix](https://github.com/victorcodess/synthetix)  
   
-- 🌱 I’m currently learning ReactJS, TailwindCSS, Nextjs, Data structures & Algorithms, and Next.js. 
+- 🌱 I’m currently learning Framer Motion, GSAP, and Three.js. 
   
-- ❓ Ask me about anything related to UX Engineering and related technologies.  
+- ❓ Ask me about anything related to UI Design and Engineering.  
 
 - ⚡ Fun fact: I listen to way too much UK Drill. 👾  
   
@@ -32,7 +32,7 @@
 <a href="https://linkedin.com/in/victor-williams-chukwudi" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/victorr_w22" target="_blank">
+<a href="https://instagram.com/victorwill__" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://codepen.com/Vicodex17" target="_blank">
