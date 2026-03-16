@@ -9,7 +9,7 @@ I’m a frontend engineer based in Lagos, Nigeria.
 
 I love building delightful user interfaces and making the web more enjoyable. I care deeply about craft—the kind you notice when it's done right, and miss when it's not.
 
-Currently, I'm building [Nexus UI](https://nexus-ui.dev/). Check out more of my work on my [website](https://www.victorwilliams.me/)
+Currently, I'm building [Nexus UI](https://nexus-ui.dev/). Check out more of my work on my [website](https://www.victorwilliams.me/).
 
 <!-- 
 ## Stats 
